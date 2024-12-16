@@ -11,7 +11,7 @@ setup(
             'jlm=jlm:main',  # Point to the `main` function in `jlm.py`
         ],
     },
-    install_requires=["requests","datetime", "json"],  # Add any dependencies if required
+    install_requires=["requests", "json"],  # Add any dependencies if required
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author="Your Name",
