@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name="jaculus-library-manager",  # Tool name
-    version="0.1.1",  # Initial version
+    version="0.2.0",  # Initial version
     py_modules=["jlm"],  # Specify the main Python file (no subfolders)
     entry_points={
         'console_scripts': [
