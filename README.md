@@ -2,20 +2,20 @@
 
 JLM is a simple library manager that helps you manage libraries in the Jaculus environment.
 
+## Links
+
+[Jaculus homepage](https://jaculus.org/)
+
+[Jaculus Library repository](https://c2coder.github.io/Jaculus-libraries/) ([GitHub](https://github.com/C2Coder/Jaculus-libraries))
+
+[JacLy (Blocky enviroment)](https://c2coder.github.io/JacLy/)
+
 ## Installation
 
 **To install JLM globally, use pip:**
 
 ```bash
 pip install git+https://github.com/C2Coder/Jaculus-library-manager.git
-```
-
-<br>
-
-**or user install:**
-
-```bash
-pip install --user git+https://github.com/C2Coder/Jaculus-library-manager.git
 ```
 
 <br>
