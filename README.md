@@ -28,6 +28,12 @@ pipx install git+https://github.com/C2Coder/Jaculus-library-manager.git
 
 <br>
 
+## Upgrading
+
+```bash
+pipx upgrade jaculus-library-manager
+```
+
 ## Usage
 
 \* every function will create a `libs.json` file (if not present)
